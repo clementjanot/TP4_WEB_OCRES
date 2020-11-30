@@ -10,6 +10,8 @@ A lire impérativement avant de commencer quoi que ce soit, ce sont les règles 
 
 ![capture](./capture.png)
 
+<img src="./capture.png">
+
 Le but de ce TP est de reproduire un site identique à l'image grâce à React. Avant toute chose, analysez cette image et reflechissez aux composants et aux containers que vous pourriez créer
 
 > Ce site contient à minima 2 composants et un container
